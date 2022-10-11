@@ -30,7 +30,7 @@ y[n]------> Y(jw)
 
 |  b7  |  b6  |  b5  |  b4   |   b3   |   b2   |   b1   |   b0   |
 | :--: | :--: | :--: | :---: | :----: | :----: | :----: | :----: |
-|  1   | 0.5  | 0.25 | 0.125 | 2^{-4} | 2^{-5} | 2^{-6} | 2^{-7} |
+|  1   | 0.5  | 0.25 | 0.125 | $2^{-4}$ | $2^{-5}$ | $2^{-6}$ | $2^{-7}$ |
 
 The above is the fixed point representation used by me for the 8-bit no.'s in AVR. This can represent  signed numbers in the range of [-1,1)  in two's complement form.
 
